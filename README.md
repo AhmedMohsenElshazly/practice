@@ -1,7 +1,6 @@
-# practice
+#UI practice
 
-A new Flutter project.
-
+In this Project i am practicing implementing new UI features and widgets without a backend
 ## Getting Started
 
 This project is a starting point for a Flutter application.
